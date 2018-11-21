@@ -1,0 +1,20 @@
+{
+  "name": "fx.vue",
+  "version": "1.0.0",
+  "description": "just for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2"
+  },
+  "keywords": []
+}
