@@ -2,9 +2,10 @@
   "name": "fx.vue",
   "version": "1.0.0",
   "description": "just for learning",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "start"
+    "start": "start",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
